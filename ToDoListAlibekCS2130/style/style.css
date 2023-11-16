@@ -1,0 +1,60 @@
+
+  main {
+    margin-top: 60px;
+  }
+
+  #content {
+    display: none;
+  }
+
+  form {
+    width: 350px;
+    margin-bottom: 10px;
+  }
+
+  ul {
+    margin-bottom: 0px;
+  }
+
+  #completedTaskList .content {
+    color: grey;
+    text-decoration: line-through;
+  }
+
+  /* New styles using red and black colors */
+  body {
+    background-color: black;
+    color: red;
+  }
+
+  nav {
+    background-color: red;
+  }
+
+  .navbar-brand {
+    color: black;
+  }
+
+  #loader {
+    color: red;
+  }
+
+  #newTask {
+    background-color: red;
+    color: black;
+  }
+
+  label {
+    color: red;
+  }
+
+  #taskList,
+  #completedTaskList {
+    border: 1px solid red;
+    padding: 10px;
+    background-color: black;
+  }
+
+  .content {
+    color: red;
+  }
